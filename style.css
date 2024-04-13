@@ -1,0 +1,26 @@
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.produtos-moda th {
+    background-color: #BB86FC; 
+    color: #fff;
+}
+
+.produtos-moda td {
+    background-color: #424250;
+    color: #fff;
+}
+
+
+.produtos-casa th {
+    background-color: #00C4B4;
+    color: #fff;
+}
+
+.produtos-casa td {
+    background-color: #424250;
+    color: #fff;
+
+}
